@@ -1,0 +1,12 @@
+type HomeContent {
+	id: ID! @unique
+	heading: String!
+	subheading: String!
+	heroImageUrl: String!
+}
+
+type Faq {
+	id: ID! @unique
+	title: String!
+	body: String!
+}

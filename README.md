@@ -1,6 +1,6 @@
-#Qantas Test
+React demo
 
-This test using Prisma DB, to run this app  to run this app localhost on port 3000.
+This demo using Prisma DB, to run this app  to run this app localhost on port 3000.
 
 `npm start`
 
